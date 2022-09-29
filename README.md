@@ -1,2 +1,2 @@
 # GLOBOS PSE
-Fran e un maquina
+Esto es el primer repositorio de github que crea mi colega fran
