@@ -17,7 +17,7 @@ class Globo
 
   void dibujate()
   {
-      box(x,y,100);
+      triangle(x,y,x,y+100, x+100,y);
   }
   
 }
